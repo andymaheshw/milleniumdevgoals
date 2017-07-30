@@ -1,6 +1,6 @@
 ## Status
 
-### Entered the competition on Jul 30th, 2017. Currently at 146 out of 137.
+### Entered the competition on Jul 30th, 2017. Currently at 146 out of 1370, top 10.56%.
 * All I did was a simple average.
 
 ## Ideas for the future.
